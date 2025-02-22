@@ -1,0 +1,82 @@
+{
+    "1001": {
+        "name": "Apple iPhone 15 Pro",
+        "category": "电子产品",
+        "price": 7999,
+        "description": "6.1英寸超视网膜XDR显示屏，A17 Pro芯片，4800万像素主摄，支持5G网络",
+        "stock": 50,
+        "brand": "Apple"
+    },
+    "1002": {
+        "name": "小米智能空气炸锅",
+        "category": "家用电器",
+        "price": 399,
+        "description": "4.5L大容量，360°热风循环，智能触控面板，支持手机APP控制",
+        "stock": 100,
+        "brand": "小米"
+    },
+    "1003": {
+        "name": "华为MateBook D14",
+        "category": "电子产品",
+        "price": 4999,
+        "description": "14英寸全面屏，AMD Ryzen 5处理器，16GB内存，512GB SSD",
+        "stock": 30,
+        "brand": "华为"
+    },
+    "1004": {
+        "name": "科沃斯扫地机器人X1",
+        "category": "智能设备",
+        "price": 5999,
+        "description": "自动集尘，激光导航，智能避障，支持语音控制",
+        "stock": 20,
+        "brand": "科沃斯"
+    },
+    "1005": {
+        "name": "索尼PS5游戏主机",
+        "category": "电子产品",
+        "price": 3899,
+        "description": "4K游戏体验，超高速SSD，支持3D音效，兼容PS4游戏",
+        "stock": 15,
+        "brand": "索尼"
+    },
+    "1006": {
+        "name": "美的智能电饭煲",
+        "category": "家用电器",
+        "price": 599,
+        "description": "4L容量，IH电磁加热，智能预约，支持手机APP控制",
+        "stock": 80,
+        "brand": "美的"
+    },
+    "1007": {
+        "name": "大疆Mini 3 Pro无人机",
+        "category": "智能设备",
+        "price": 4788,
+        "description": "4K/60fps视频拍摄，34分钟续航，智能跟随，轻巧便携",
+        "stock": 25,
+        "brand": "大疆"
+    },
+    "1008": {
+        "name": "联想拯救者Y7000P",
+        "category": "电子产品",
+        "price": 7999,
+        "description": "15.6英寸电竞屏，i7-12700H处理器，RTX3060显卡，16GB内存",
+        "stock": 10,
+        "brand": "联想"
+    },
+    "1009": {
+        "name": "海尔智能冰箱",
+        "category": "家用电器",
+        "price": 6999,
+        "description": "520L大容量，风冷无霜，智能温控，支持手机远程控制",
+        "stock": 40,
+        "brand": "海尔"
+    },
+    "1010": {
+        "name": "Apple Watch Series 9",
+        "category": "智能设备",
+        "price": 2999,
+        "description": "45mm表盘，全天候视网膜显示屏，血氧监测，支持运动追踪",
+        "stock": 60,
+        "brand": "Apple"
+    }
+}
